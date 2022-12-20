@@ -142,3 +142,8 @@ button:hover{
     text-align: center;
     color: #ffffff;
 }
+
+.test{
+    text-decoration: none;
+    color: beige;
+}
