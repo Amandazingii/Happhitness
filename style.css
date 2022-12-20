@@ -145,5 +145,8 @@ button:hover{
 
 .test{
     text-decoration: none;
-    color: beige;
+    color: rgb(42, 153, 151);
+    font-weight: bolder;
+    font-size: larger;
+    
 }
